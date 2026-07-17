@@ -65,6 +65,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [0014-longest-common-prefix](https://github.com/thearjunl/leetcode-python3/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/0032-longest-valid-parentheses) |
+| [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
 ## Trie
 |  |
 | ------- |
@@ -77,4 +78,12 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/0032-longest-valid-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
+## String Matching
+|  |
+| ------- |
+| [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
 <!---LeetCode Topics End-->
