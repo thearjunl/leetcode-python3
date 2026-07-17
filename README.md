@@ -6,6 +6,7 @@ A collection of leetcode soln in Pyt3
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thearjunl/leetcode-python3/tree/master/0004-median-of-two-sorted-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -37,6 +38,7 @@ A collection of leetcode soln in Pyt3
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thearjunl/leetcode-python3/tree/master/0004-median-of-two-sorted-arrays) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 ## Combinatorics
 |  |
@@ -50,4 +52,8 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/thearjunl/leetcode-python3/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
