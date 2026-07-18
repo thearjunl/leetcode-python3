@@ -9,6 +9,7 @@ A collection of leetcode soln in Pyt3
 | [0004-median-of-two-sorted-arrays](https://github.com/thearjunl/leetcode-python3/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thearjunl/leetcode-python3/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thearjunl/leetcode-python3/tree/master/0033-search-in-rotated-sorted-array) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
@@ -103,4 +104,20 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+## Depth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
+## Union-Find
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 <!---LeetCode Topics End-->
