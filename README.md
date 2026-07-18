@@ -15,6 +15,7 @@ A collection of leetcode soln in Pyt3
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -27,12 +28,14 @@ A collection of leetcode soln in Pyt3
 ## Two Pointers
 |  |
 | ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
 |  |
@@ -57,6 +60,7 @@ A collection of leetcode soln in Pyt3
 | [0033-search-in-rotated-sorted-array](https://github.com/thearjunl/leetcode-python3/tree/master/0033-search-in-rotated-sorted-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -90,6 +94,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/0032-longest-valid-parentheses) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Stack
 |  |
 | ------- |
@@ -99,6 +104,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -127,4 +133,12 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/thearjunl/leetcode-python3/tree/master/1291-sequential-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->
