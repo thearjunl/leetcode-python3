@@ -9,6 +9,7 @@ A collection of leetcode soln in Pyt3
 | [0004-median-of-two-sorted-arrays](https://github.com/thearjunl/leetcode-python3/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thearjunl/leetcode-python3/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thearjunl/leetcode-python3/tree/master/0033-search-in-rotated-sorted-array) |
+| [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/1288-remove-covered-intervals) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -42,6 +43,7 @@ A collection of leetcode soln in Pyt3
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
@@ -133,6 +135,7 @@ A collection of leetcode soln in Pyt3
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Enumeration
 |  |
