@@ -24,6 +24,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/thearjunl/leetcode-python3/tree/master/0009-palindrome-number) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/thearjunl/leetcode-python3/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
