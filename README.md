@@ -11,6 +11,7 @@ A collection of leetcode soln in Pyt3
 | [0033-search-in-rotated-sorted-array](https://github.com/thearjunl/leetcode-python3/tree/master/0033-search-in-rotated-sorted-array) |
 | [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1833-maximum-ice-cream-bars](https://github.com/thearjunl/leetcode-python3/tree/master/1833-maximum-ice-cream-bars) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -38,6 +39,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/thearjunl/leetcode-python3/tree/master/1833-maximum-ice-cream-bars) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -59,6 +61,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/thearjunl/leetcode-python3/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
