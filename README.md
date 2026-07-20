@@ -79,6 +79,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/thearjunl/leetcode-python3/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/0032-longest-valid-parentheses) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/thearjunl/leetcode-python3/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
 |  |
 | ------- |
