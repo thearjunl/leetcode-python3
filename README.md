@@ -101,6 +101,7 @@ A collection of leetcode soln in Pyt3
 | [1189-maximum-number-of-balloons](https://github.com/thearjunl/leetcode-python3/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/thearjunl/leetcode-python3/tree/master/2833-furthest-point-from-origin) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/thearjunl/leetcode-python3/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Trie
 |  |
 | ------- |
@@ -156,6 +157,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/thearjunl/leetcode-python3/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/thearjunl/leetcode-python3/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
 | ------- |
