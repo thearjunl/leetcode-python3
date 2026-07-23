@@ -20,6 +20,7 @@ A collection of leetcode soln in Pyt3
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/thearjunl/leetcode-python3/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -30,6 +31,7 @@ A collection of leetcode soln in Pyt3
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/thearjunl/leetcode-python3/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
@@ -164,6 +166,7 @@ A collection of leetcode soln in Pyt3
 ## Bit Manipulation
 |  |
 | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/thearjunl/leetcode-python3/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Graph Theory
 |  |
