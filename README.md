@@ -21,6 +21,7 @@ A collection of leetcode soln in Pyt3
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/thearjunl/leetcode-python3/tree/master/2784-check-if-array-is-good) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -167,6 +168,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/thearjunl/leetcode-python3/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Enumeration
 |  |
 | ------- |
@@ -193,6 +196,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [2685-count-the-number-of-complete-components](https://github.com/thearjunl/leetcode-python3/tree/master/2685-count-the-number-of-complete-components) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Monotonic Stack
 |  |
@@ -210,4 +214,12 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thearjunl/leetcode-python3/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
