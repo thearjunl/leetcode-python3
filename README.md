@@ -60,6 +60,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
+| [3612-process-string-with-special-operations-i](https://github.com/thearjunl/leetcode-python3/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Number Theory
 |  |
@@ -114,6 +115,7 @@ A collection of leetcode soln in Pyt3
 | [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thearjunl/leetcode-python3/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3612-process-string-with-special-operations-i](https://github.com/thearjunl/leetcode-python3/tree/master/3612-process-string-with-special-operations-i) |
 ## Trie
 |  |
 | ------- |
