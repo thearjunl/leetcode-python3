@@ -41,6 +41,7 @@ A collection of leetcode soln in Pyt3
 ## Two Pointers
 |  |
 | ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thearjunl/leetcode-python3/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -196,4 +197,8 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3501-maximize-active-section-with-trade-ii) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thearjunl/leetcode-python3/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
