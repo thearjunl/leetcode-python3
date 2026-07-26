@@ -9,6 +9,7 @@ A collection of leetcode soln in Pyt3
 | [0004-median-of-two-sorted-arrays](https://github.com/thearjunl/leetcode-python3/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/thearjunl/leetcode-python3/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thearjunl/leetcode-python3/tree/master/0033-search-in-rotated-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/thearjunl/leetcode-python3/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
@@ -28,6 +29,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/thearjunl/leetcode-python3/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/thearjunl/leetcode-python3/tree/master/0628-maximum-product-of-three-numbers) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/thearjunl/leetcode-python3/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
@@ -44,6 +46,7 @@ A collection of leetcode soln in Pyt3
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/thearjunl/leetcode-python3/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/thearjunl/leetcode-python3/tree/master/1833-maximum-ice-cream-bars) |
