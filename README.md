@@ -11,6 +11,7 @@ A collection of leetcode soln in Pyt3
 | [0033-search-in-rotated-sorted-array](https://github.com/thearjunl/leetcode-python3/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/thearjunl/leetcode-python3/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thearjunl/leetcode-python3/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/thearjunl/leetcode-python3/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
@@ -37,6 +38,7 @@ A collection of leetcode soln in Pyt3
 | [0009-palindrome-number](https://github.com/thearjunl/leetcode-python3/tree/master/0009-palindrome-number) |
 | [0486-predict-the-winner](https://github.com/thearjunl/leetcode-python3/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thearjunl/leetcode-python3/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/thearjunl/leetcode-python3/tree/master/0877-stone-game) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/thearjunl/leetcode-python3/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -152,6 +154,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/thearjunl/leetcode-python3/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/thearjunl/leetcode-python3/tree/master/0877-stone-game) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/thearjunl/leetcode-python3/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
@@ -252,4 +255,5 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/thearjunl/leetcode-python3/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/thearjunl/leetcode-python3/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
