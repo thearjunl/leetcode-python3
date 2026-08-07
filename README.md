@@ -47,6 +47,7 @@ A collection of leetcode soln in Pyt3
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/thearjunl/leetcode-python3/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/thearjunl/leetcode-python3/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/thearjunl/leetcode-python3/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -89,6 +90,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
 |  |
@@ -145,6 +147,7 @@ A collection of leetcode soln in Pyt3
 | [2833-furthest-point-from-origin](https://github.com/thearjunl/leetcode-python3/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thearjunl/leetcode-python3/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -178,6 +181,7 @@ A collection of leetcode soln in Pyt3
 | [1833-maximum-ice-cream-bars](https://github.com/thearjunl/leetcode-python3/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## String Matching
@@ -276,4 +280,8 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/thearjunl/leetcode-python3/tree/master/1406-stone-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
