@@ -58,6 +58,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/thearjunl/leetcode-python3/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thearjunl/leetcode-python3/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Sorting
@@ -147,6 +148,7 @@ A collection of leetcode soln in Pyt3
 | [2833-furthest-point-from-origin](https://github.com/thearjunl/leetcode-python3/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thearjunl/leetcode-python3/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/thearjunl/leetcode-python3/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -165,6 +167,7 @@ A collection of leetcode soln in Pyt3
 | [0486-predict-the-winner](https://github.com/thearjunl/leetcode-python3/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/thearjunl/leetcode-python3/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/thearjunl/leetcode-python3/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thearjunl/leetcode-python3/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/thearjunl/leetcode-python3/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Stack
@@ -181,6 +184,7 @@ A collection of leetcode soln in Pyt3
 | [1833-maximum-ice-cream-bars](https://github.com/thearjunl/leetcode-python3/tree/master/1833-maximum-ice-cream-bars) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thearjunl/leetcode-python3/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3474-lexicographically-smallest-generated-string](https://github.com/thearjunl/leetcode-python3/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3534-path-existence-queries-in-a-graph-ii) |
