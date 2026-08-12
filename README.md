@@ -26,6 +26,7 @@ A collection of leetcode soln in Pyt3
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/thearjunl/leetcode-python3/tree/master/2784-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thearjunl/leetcode-python3/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thearjunl/leetcode-python3/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
@@ -106,6 +107,7 @@ A collection of leetcode soln in Pyt3
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/thearjunl/leetcode-python3/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/thearjunl/leetcode-python3/tree/master/2784-check-if-array-is-good) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thearjunl/leetcode-python3/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/thearjunl/leetcode-python3/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
@@ -311,4 +313,8 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/thearjunl/leetcode-python3/tree/master/1510-stone-game-iv) |
+## Sliding Window
+|  |
+| ------- |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thearjunl/leetcode-python3/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 <!---LeetCode Topics End-->
