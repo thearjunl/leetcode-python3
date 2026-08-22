@@ -67,6 +67,7 @@ A collection of leetcode soln in Pyt3
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/thearjunl/leetcode-python3/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thearjunl/leetcode-python3/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
 |  |
