@@ -55,6 +55,7 @@ A collection of leetcode soln in Pyt3
 | [1344-angle-between-hands-of-a-clock](https://github.com/thearjunl/leetcode-python3/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1406-stone-game-iii](https://github.com/thearjunl/leetcode-python3/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/thearjunl/leetcode-python3/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/thearjunl/leetcode-python3/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -172,6 +173,7 @@ A collection of leetcode soln in Pyt3
 | [0032-longest-valid-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thearjunl/leetcode-python3/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/thearjunl/leetcode-python3/tree/master/1189-maximum-number-of-balloons) |
+| [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thearjunl/leetcode-python3/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2833-furthest-point-from-origin](https://github.com/thearjunl/leetcode-python3/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -214,6 +216,7 @@ A collection of leetcode soln in Pyt3
 | [1386-cinema-seat-allocation](https://github.com/thearjunl/leetcode-python3/tree/master/1386-cinema-seat-allocation) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/thearjunl/leetcode-python3/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/thearjunl/leetcode-python3/tree/master/1833-maximum-ice-cream-bars) |
+| [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/thearjunl/leetcode-python3/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -315,6 +318,7 @@ A collection of leetcode soln in Pyt3
 | [1140-stone-game-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/thearjunl/leetcode-python3/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/thearjunl/leetcode-python3/tree/master/1510-stone-game-iv) |
+| [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/thearjunl/leetcode-python3/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
