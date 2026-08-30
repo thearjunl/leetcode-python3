@@ -26,6 +26,7 @@ A collection of leetcode soln in Pyt3
 | [1872-stone-game-viii](https://github.com/thearjunl/leetcode-python3/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/thearjunl/leetcode-python3/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/thearjunl/leetcode-python3/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thearjunl/leetcode-python3/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
@@ -232,6 +233,7 @@ A collection of leetcode soln in Pyt3
 | [1833-maximum-ice-cream-bars](https://github.com/thearjunl/leetcode-python3/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/thearjunl/leetcode-python3/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/thearjunl/leetcode-python3/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thearjunl/leetcode-python3/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
