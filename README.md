@@ -49,6 +49,7 @@ A collection of leetcode soln in Pyt3
 | [3718-smallest-missing-multiple-of-k](https://github.com/thearjunl/leetcode-python3/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/thearjunl/leetcode-python3/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of leetcode soln in Pyt3
 | [3536-maximum-product-of-two-digits](https://github.com/thearjunl/leetcode-python3/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thearjunl/leetcode-python3/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
