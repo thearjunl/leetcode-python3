@@ -11,6 +11,7 @@ A collection of leetcode soln in Pyt3
 | [0033-search-in-rotated-sorted-array](https://github.com/thearjunl/leetcode-python3/tree/master/0033-search-in-rotated-sorted-array) |
 | [0486-predict-the-winner](https://github.com/thearjunl/leetcode-python3/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/thearjunl/leetcode-python3/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/thearjunl/leetcode-python3/tree/master/0835-image-overlap) |
 | [0877-stone-game](https://github.com/thearjunl/leetcode-python3/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
@@ -293,6 +294,7 @@ A collection of leetcode soln in Pyt3
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/thearjunl/leetcode-python3/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
