@@ -20,6 +20,7 @@ A collection of leetcode soln in Pyt3
 | [1386-cinema-seat-allocation](https://github.com/thearjunl/leetcode-python3/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/thearjunl/leetcode-python3/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thearjunl/leetcode-python3/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/thearjunl/leetcode-python3/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/thearjunl/leetcode-python3/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -139,6 +140,7 @@ A collection of leetcode soln in Pyt3
 | [1189-maximum-number-of-balloons](https://github.com/thearjunl/leetcode-python3/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/thearjunl/leetcode-python3/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thearjunl/leetcode-python3/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/thearjunl/leetcode-python3/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/thearjunl/leetcode-python3/tree/master/2784-check-if-array-is-good) |
@@ -159,6 +161,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thearjunl/leetcode-python3/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/thearjunl/leetcode-python3/tree/master/0033-search-in-rotated-sorted-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thearjunl/leetcode-python3/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/thearjunl/leetcode-python3/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -239,6 +242,7 @@ A collection of leetcode soln in Pyt3
 | [0940-distinct-subsequences-ii](https://github.com/thearjunl/leetcode-python3/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/thearjunl/leetcode-python3/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thearjunl/leetcode-python3/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/thearjunl/leetcode-python3/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/thearjunl/leetcode-python3/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/thearjunl/leetcode-python3/tree/master/1872-stone-game-viii) |
@@ -412,6 +416,7 @@ A collection of leetcode soln in Pyt3
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/thearjunl/leetcode-python3/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/thearjunl/leetcode-python3/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thearjunl/leetcode-python3/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/thearjunl/leetcode-python3/tree/master/3090-maximum-length-substring-with-two-occurrences) |
