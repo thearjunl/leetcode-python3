@@ -107,6 +107,7 @@ A collection of leetcode soln in Pyt3
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/thearjunl/leetcode-python3/tree/master/0628-maximum-product-of-three-numbers) |
+| [1096-brace-expansion-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -145,6 +146,7 @@ A collection of leetcode soln in Pyt3
 ## Hash Table
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/thearjunl/leetcode-python3/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/thearjunl/leetcode-python3/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/thearjunl/leetcode-python3/tree/master/1386-cinema-seat-allocation) |
@@ -221,6 +223,7 @@ A collection of leetcode soln in Pyt3
 | [0115-distinct-subsequences](https://github.com/thearjunl/leetcode-python3/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/thearjunl/leetcode-python3/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thearjunl/leetcode-python3/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/thearjunl/leetcode-python3/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/thearjunl/leetcode-python3/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
@@ -271,6 +274,7 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/0032-longest-valid-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/thearjunl/leetcode-python3/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1096-brace-expansion-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1096-brace-expansion-ii) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 ## Greedy
 |  |
@@ -311,6 +315,7 @@ A collection of leetcode soln in Pyt3
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1096-brace-expansion-ii) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2685-count-the-number-of-complete-components](https://github.com/thearjunl/leetcode-python3/tree/master/2685-count-the-number-of-complete-components) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -420,6 +425,7 @@ A collection of leetcode soln in Pyt3
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Nim Game
 |  |
