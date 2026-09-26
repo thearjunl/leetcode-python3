@@ -25,6 +25,7 @@ A collection of leetcode soln in Pyt3
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thearjunl/leetcode-python3/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/thearjunl/leetcode-python3/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/thearjunl/leetcode-python3/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thearjunl/leetcode-python3/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1833-maximum-ice-cream-bars](https://github.com/thearjunl/leetcode-python3/tree/master/1833-maximum-ice-cream-bars) |
 | [1872-stone-game-viii](https://github.com/thearjunl/leetcode-python3/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -154,6 +155,7 @@ A collection of leetcode soln in Pyt3
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/thearjunl/leetcode-python3/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/thearjunl/leetcode-python3/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/thearjunl/leetcode-python3/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thearjunl/leetcode-python3/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [2784-check-if-array-is-good](https://github.com/thearjunl/leetcode-python3/tree/master/2784-check-if-array-is-good) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/thearjunl/leetcode-python3/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -226,6 +228,7 @@ A collection of leetcode soln in Pyt3
 | [1096-brace-expansion-ii](https://github.com/thearjunl/leetcode-python3/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/thearjunl/leetcode-python3/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/thearjunl/leetcode-python3/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thearjunl/leetcode-python3/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thearjunl/leetcode-python3/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thearjunl/leetcode-python3/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
