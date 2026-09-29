@@ -32,6 +32,7 @@ A collection of leetcode soln in Pyt3
 | [2029-stone-game-ix](https://github.com/thearjunl/leetcode-python3/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/thearjunl/leetcode-python3/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thearjunl/leetcode-python3/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thearjunl/leetcode-python3/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2615-sum-of-distances](https://github.com/thearjunl/leetcode-python3/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/thearjunl/leetcode-python3/tree/master/2751-robot-collisions) |
 | [2784-check-if-array-is-good](https://github.com/thearjunl/leetcode-python3/tree/master/2784-check-if-array-is-good) |
@@ -268,6 +269,7 @@ A collection of leetcode soln in Pyt3
 | [1510-stone-game-iv](https://github.com/thearjunl/leetcode-python3/tree/master/1510-stone-game-iv) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/thearjunl/leetcode-python3/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/thearjunl/leetcode-python3/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thearjunl/leetcode-python3/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thearjunl/leetcode-python3/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/thearjunl/leetcode-python3/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/thearjunl/leetcode-python3/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -340,6 +342,7 @@ A collection of leetcode soln in Pyt3
 | [0835-image-overlap](https://github.com/thearjunl/leetcode-python3/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1260-shift-2d-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/thearjunl/leetcode-python3/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thearjunl/leetcode-python3/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/thearjunl/leetcode-python3/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/thearjunl/leetcode-python3/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Enumeration
@@ -468,4 +471,5 @@ A collection of leetcode soln in Pyt3
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/thearjunl/leetcode-python3/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/thearjunl/leetcode-python3/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
