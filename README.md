@@ -67,6 +67,7 @@ A collection of leetcode soln in Pyt3
 | [3731-find-missing-elements](https://github.com/thearjunl/leetcode-python3/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/thearjunl/leetcode-python3/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/thearjunl/leetcode-python3/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -106,6 +107,7 @@ A collection of leetcode soln in Pyt3
 | [3870-count-commas-in-range](https://github.com/thearjunl/leetcode-python3/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3871-count-commas-in-range-ii) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/thearjunl/leetcode-python3/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -142,6 +144,7 @@ A collection of leetcode soln in Pyt3
 | [3727-maximum-alternating-sum-of-squares](https://github.com/thearjunl/leetcode-python3/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/thearjunl/leetcode-python3/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/thearjunl/leetcode-python3/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+| [3886-sum-of-sortable-integers](https://github.com/thearjunl/leetcode-python3/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -406,6 +409,7 @@ A collection of leetcode soln in Pyt3
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/thearjunl/leetcode-python3/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thearjunl/leetcode-python3/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/thearjunl/leetcode-python3/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/thearjunl/leetcode-python3/tree/master/3886-sum-of-sortable-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
