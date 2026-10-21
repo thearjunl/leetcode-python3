@@ -281,6 +281,7 @@ A collection of leetcode soln in Pyt3
 | [3612-process-string-with-special-operations-i](https://github.com/thearjunl/leetcode-python3/tree/master/3612-process-string-with-special-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/thearjunl/leetcode-python3/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/thearjunl/leetcode-python3/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/thearjunl/leetcode-python3/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Trie
 |  |
 | ------- |
