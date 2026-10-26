@@ -92,6 +92,7 @@ A collection of leetcode soln in Pyt3
 | [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/thearjunl/leetcode-python3/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/thearjunl/leetcode-python3/tree/master/2029-stone-game-ix) |
+| [2409-count-days-spent-together](https://github.com/thearjunl/leetcode-python3/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/thearjunl/leetcode-python3/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/thearjunl/leetcode-python3/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/thearjunl/leetcode-python3/tree/master/3312-sorted-gcd-pair-queries) |
@@ -270,6 +271,7 @@ A collection of leetcode soln in Pyt3
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/thearjunl/leetcode-python3/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/thearjunl/leetcode-python3/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/thearjunl/leetcode-python3/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/thearjunl/leetcode-python3/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/thearjunl/leetcode-python3/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2833-furthest-point-from-origin](https://github.com/thearjunl/leetcode-python3/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/thearjunl/leetcode-python3/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
